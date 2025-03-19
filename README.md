@@ -68,9 +68,10 @@ Con **EL**: Electric Lock (chapa  eléctrica)
 
 ## Integrantes
 
-[![Magarita Segovia](https://www.linkedin.com/in/botones/)](https://github.com/usuario/repositorio)
-[![Miguel Chacca](https://www.linkedin.com/in/miguel-chacca-tolentino-6b9561121/)
-
+[Miguel Chacca](https://www.linkedin.com/in/miguel-chacca-tolentino-6b9561121/)
+[Adrian Vela](https://www.linkedin.com/in/adrianvelad/)
+Patricia Meza
+[Magarita Segovia](https://www.linkedin.com/in/botones/)
 
 
 
