@@ -58,7 +58,7 @@ Con este flujo, la **cámara permanece activa** y el **ESP32** **conectado**, de
 
 **Diagrama de flujo** y **Diagrama de Secuencia**
 
-![Diagrama de flujo](https://github.com/user-attachments/assets/049b3409-f183-4f59-bb66-cd0a2bfe7794)
+![Diagrama de flujo](https://github.com/user-attachments/assets/2004ea87-ef57-44e2-bc39-ff3b09fbf9d9)
 
 ![Diagrama de Secuencia](https://github.com/user-attachments/assets/ddafeebf-22c8-4e19-9824-7b3be404b974)
 
