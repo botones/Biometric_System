@@ -1,0 +1,15 @@
+Date: 12/12/2023
+Time: 5:0
+Phone Number: +51 933249176
+Message: ¡Reconocimiento facial exitoso para Adrian con 82.23% de confianza!
+--------------------
+Date: 12/12/2023
+Time: 5:4
+Phone Number: +51 933249176
+Message: ¡Reconocimiento facial exitoso para Adrian con 80.25% de confianza!
+--------------------
+Date: 12/12/2023
+Time: 16:8
+Phone Number: +51 922659832
+Message: ¡Reconocimiento facial exitoso para Adrian con 80.56% de confianza!
+--------------------
