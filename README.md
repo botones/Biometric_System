@@ -64,8 +64,12 @@ Con este flujo, la **cámara permanece activa** y el **ESP32** **conectado**, de
 ![Diagrama de Secuencia](https://github.com/user-attachments/assets/ddafeebf-22c8-4e19-9824-7b3be404b974)
 Con **EL**: Electric Lock (chapa  eléctrica) 
 
+---
 
+## Integrantes
 
+[![Magarita Segovia](https://www.linkedin.com/in/botones/)](https://github.com/usuario/repositorio)
+[![Miguel Chacca](https://www.linkedin.com/in/miguel-chacca-tolentino-6b9561121/)
 
 
 
